@@ -46,19 +46,15 @@ During this course, I learned the following topics:
 
 ### Researches 📚
 
-- Add your research details here.
+- 
 
 ### Homework Assignments 📑
 
-- Add the list of your homework assignments here.
+- 
 
 ### Notebooks 📓
 
-- Add the Jupyter notebooks or any other notebook files here.
+- 
 
----
 
-## Files Structure
-
-Here is the structure of the repository:
 
