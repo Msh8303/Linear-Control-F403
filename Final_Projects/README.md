@@ -87,5 +87,3 @@ The report is structured into several questions, each addressing a different asp
 
 
 
-## **📌 Final Thoughts**
-This is a **well-structured project** demonstrating **advanced control system techniques**. Let me know if any modifications are needed! 🚀
