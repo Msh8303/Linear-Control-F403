@@ -74,7 +74,7 @@ The report is structured into several questions, each addressing a different asp
   - **Sensitivity constraints met**.
   - **A negative gain (-5.68) is required for stability**.
 
-### **📌 Question 8: Controller Performance Evaluation**
+- **Controller Performance Evaluation**
 - **Objective**: Validate final controller performance.
 - **Key Tests**:
   - **Step Response**: Evaluates steady-state accuracy.
