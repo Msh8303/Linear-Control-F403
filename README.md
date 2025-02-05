@@ -43,13 +43,13 @@ During this course, I learned the following topics:
 
 ---
 
-## Activities During the Semester
 
-### Researches 📚
+
+## Researches 📚
 
 - 
 
-#### Homework Assignments 📑
+### Homework Assignments 📑
 
 The following homework assignments, along with the solutions provided by the teaching assistants, are uploaded to this repository and are available for reference. All exercises are written in LaTeX format.
 
@@ -73,10 +73,13 @@ The following homework assignments, along with the solutions provided by the tea
 
 All the code used in the solutions for these exercises is included within the exercise files.
 
-### Notebooks 📓
+## Notebooks 📓
 
 - 
 
-### Final Project 📊
+## Final Project 📊
+
+This project is a **final submission** for the **Linear Control Systems** course by **Mohammad Amin Shabestari**. 
+- All explanation related to the project is in the readme file in the project folder.
 
 
